@@ -1,0 +1,3 @@
+nama: pangeran
+umur: 20
+pekerjaan: mahasiswa
